@@ -1,1 +1,2 @@
-![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GiannisMand&layout=compact&theme=radical)
+
